@@ -1,7 +1,7 @@
 local Security = {
   WL = {
     ["47DFFDB0-4D1E-4988-9127-45785F66D9F4"] = true;
-    --["5A7A460D-3A16-415B-BE88-B83884903C8C"] = true;
+    --["5A7A460D-3A16-415B-BE88-B83884903C8C"] = false;
   };
   BL = {
 
